@@ -8,6 +8,7 @@ In this Pomodoro Timer we have two time slots:
 
 One time slot for work & second for break. Initially the work timer is predefined at 25 minutes and the break timer at 5 minutes.
 
+Available Scripts
 In the project directory, you can run:
 
 npm start
